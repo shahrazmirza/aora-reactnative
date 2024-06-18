@@ -7,3 +7,5 @@
 7. npm install --save-dev tailwindcss@3.3.2
 8. npx tailwindcss init
 9. Change the "content" to: content: ["./app/**/*.{js,jsx,ts,tsx}", "./components/**/*.{js,jsx,ts,tsx}"],
+10. Appwrite configuration
+11. Add to app.json under ios or android: "package": "com.sm.aora"
